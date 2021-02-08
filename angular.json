@@ -29,9 +29,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/x3dom/x3dom.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/x3dom/x3dom.js"
+            ]
           },
           "configurations": {
             "production": {
